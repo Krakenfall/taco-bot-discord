@@ -1,0 +1,26 @@
+{
+  "name": "taco-bot-discord",
+  "version": "0.1.0",
+  "description": "A bot created to provide custom commands for users in the Delta Company 71 discord server",
+  "main": "taco.js",
+  "dependencies": {
+    "discord.js": "^10.0.1",
+    "mongodb": "^2.2.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "!test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "taco-bot-discord"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "custom",
+    "commands"
+  ],
+  "author": "Krakenfall",
+  "license": "MIT"
+}
